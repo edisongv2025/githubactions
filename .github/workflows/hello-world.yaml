@@ -5,7 +5,7 @@ on:
 
 jobs:
   hello:
-    name: Say Hello, this is Edison V
+    name: Say Hello, WELCOM ALL FROM TELUS
     runs-on: self-hosted
 
     steps:
